@@ -4,6 +4,4 @@ buy
 save
 gain
 
-;kugaesnvbkmgkubt
-
 New non-insane change
